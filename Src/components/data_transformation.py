@@ -103,8 +103,6 @@ class Datatransformation:
             )
 
 
-
-
         except Exception as e:
             raise Customexception(e,sys)
 

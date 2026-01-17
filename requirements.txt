@@ -1,7 +1,7 @@
-pandas
-numpy
-seaborn
-matplotlib
+# pandas
+# numpy
+# seaborn
+# matplotlib
 catboost
 xgboost
 dill
